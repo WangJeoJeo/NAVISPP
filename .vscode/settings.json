@@ -1,0 +1,19 @@
+{
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "complex": "c",
+        "ios": "c",
+        "limits": "c",
+        "ratio": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "unordered_map": "c",
+        "__node_handle": "c",
+        "vector": "c",
+        "iosfwd": "c",
+        "ppp.h": "c"
+    }
+}
